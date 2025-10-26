@@ -3,7 +3,7 @@
 </div>
 
 ## Who am I
-A student from THU IIIS, Learning in AI now.
+A student from THU IIIS. Learning in AI now.
 
 ## Languages and Tools  
 <div align="center">  
@@ -25,7 +25,7 @@ A student from THU IIIS, Learning in AI now.
 </div> 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="56%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=gameswu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
