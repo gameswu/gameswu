@@ -3,9 +3,12 @@
 </div>
 
 ## Who am I
-A student from THU IIIS. Learning in AI now.
+A undergraduate student from THU IIIS, learning in AI now. However, I was used to learn physics and became a member of China National Physics Team in 40th CPHO. Please contact me with 📬[email](wuhx24@mails.tsinghua.edu.cn).
 
-## Languages and Tools  
+## Languages and Tools
+<div align="center">
+  <img src="language.png" style="width: 60%" />
+</div>
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
