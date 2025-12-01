@@ -5,6 +5,8 @@
 ## Who am I
 A undergraduate student from THU IIIS, learning in AI now. However, I was used to learn physics and became a member of China National Physics Team in 40th CPHO. Please contact me with 📬[email](wuhx24@mails.tsinghua.edu.cn).
 
+Here is my bot [Nya](https://github.com/NyaOfficial).
+
 ## Languages and Tools
 <div align="center">
   <img src="language.png" style="width: 60%" />
