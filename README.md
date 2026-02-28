@@ -30,12 +30,12 @@ Here is my bot [Nya](https://github.com/NyaOfficial).
 </div> 
 
 ## Github Stats  
-<table><tr><td valign="top" width="56%">
+<table><tr><td valign="top" width="60%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gameswu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-stats-extended.vercel.app/api?username=gameswu" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gameswu&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gameswu&langs_count=4" align="left" style="width: 100%" />
 
 </td></tr></table>  
