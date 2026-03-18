@@ -3,7 +3,7 @@
 </div>
 
 ## Who am I
-A undergraduate student from THU IIIS, learning in AI now. However, I was used to learn physics and became a member of China National Physics Team in 40th CPHO. Please contact me with 📬[email](wuhx24@mails.tsinghua.edu.cn).
+A undergraduate student from THU IIIS, learning in AI now. However, I was used to learn physics and became a member of China National Physics Team in 40th CPHO. Now I am the president of [CPHOS](https://cphos.cn). Please contact me with 📬[email](wuhx24@mails.tsinghua.edu.cn).
 
 Here is my bot [Nya](https://github.com/NyaOfficial).
 
@@ -39,3 +39,16 @@ Here is my bot [Nya](https://github.com/NyaOfficial).
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gameswu&langs_count=4" align="left" style="width: 100%" />
 
 </td></tr></table>  
+
+## CPHOS
+
+<div align="center">
+  <img src="logo.jpg" alt="cphos" style="width: 60%">
+</div>
+
+**CPHOS** was founded in late 2020 by more than ten members of the **National Physics Training Team**. After five years of growth, our membership has expanded to nearly two hundred. As a non-profit organization, we are committed to
+- Building a transparent and open platform for physics competition participants
+- Providing comprehensive support for the continued development of retired competitors
+- Contributing to the healthy and vibrant advancement of physics competitions</small>
+
+Since its founding, CPHOS has organized **27** non-profit mock examinations, with over one hundred schools participating and consistently over one thousand students per sitting. 📢 Our WeChat official account **"CPHOS物理竞赛联考"** continuously publishes high-quality content including exam preparation tips, problem briefings, and competition news.
